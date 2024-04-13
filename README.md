@@ -4,7 +4,11 @@
 1. Mugo Joseph Wamiti 
 ****
 ## Project Description
+The snake game is a classic arcade game where the player controls a snake that moves around the screen, eating food (represented by apples) to grow longer. The game ends if the snake runs into itself or the boundaries of the screen.
 
+Future development
+1. Enhancing the user experience by displaying a "Game Over" message and an option to restart the game after it ends. 
+2. A message will be added to indicate to the user that the game is starting, enhancing the overall game flow and usability.
 
 ******
 *****
